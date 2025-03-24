@@ -52,3 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/HopHop/v17
+/.vs
+/WebApplication1/.vs/WebApplication1
